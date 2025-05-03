@@ -1,0 +1,7 @@
+TONAPI_KEY=@tonapibot
+DATABASE_URL=postgresql+psycopg2://postgres:NtcnbhjdybtNP0205@db:5432/stonfi_db
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=NtcnbhjdybtNP0205
+POSTGRES_DB=stonfi_db
+POSTGRES_HOST=db
+POSTGRES_PORT=5432 
