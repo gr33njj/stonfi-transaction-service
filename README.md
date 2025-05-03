@@ -25,5 +25,5 @@
 
 ### 1. Клонируйте репозиторий
 ```bash
-git clone https://github.com/your-username/stonfi-transaction-service.git
+git clone https://github.com/gr33njj/stonfi-transaction-service.git
 cd stonfi-transaction-service
