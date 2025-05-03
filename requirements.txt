@@ -1,0 +1,6 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+sqlalchemy==2.0.35
+psycopg[binary]>=3.2.2
+aiohttp==3.10.5
+python-dotenv==1.0.1
